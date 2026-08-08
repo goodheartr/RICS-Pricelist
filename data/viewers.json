@@ -1,0 +1,14 @@
+{
+  "total": 1,
+  "viewers": [
+    {
+      "username": "deadliftingduck",
+      "karma": 100.0,
+      "coins": 100,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "127643060"
+      }
+    }
+  ]
+}
